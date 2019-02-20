@@ -46,3 +46,15 @@ Pernyataan *break* digunakan untuk menghentikan proses perulangan pada kondisi t
 
 **Program1.py**
 
+![screenshot 49](https://user-images.githubusercontent.com/46735563/53070607-4bdd7980-3512-11e9-910a-74f8b49ec359.png)
+
+1. **Perulangan for**
+
+Perulangan *for* disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
+
+2. **Menggunakan kondisional if**
+
+Seperti halnya bahasa pemrograman yang lain, bahasa python juga mempunyai percabangan berupa **if** yaitu bila suatu kondisi tertentu tercapa maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
+
+**Berikut Adalah Hasil Output**
+
