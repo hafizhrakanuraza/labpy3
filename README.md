@@ -58,3 +58,6 @@ Seperti halnya bahasa pemrograman yang lain, bahasa python juga mempunyai percab
 
 **Berikut Adalah Hasil Output**
 
+![screenshot 52](https://user-images.githubusercontent.com/46735563/53070711-9f4fc780-3512-11e9-96b6-6efbcfee670a.png)
+
+# TERIMAKASIH
