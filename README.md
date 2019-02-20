@@ -28,3 +28,17 @@ Pengacakan, pembangkit bilangan acak, atau random dapat digunakan untuk berbagai
 
 **Latihan2.py**
 
+![screenshot 48](https://user-images.githubusercontent.com/46735563/53070240-14ba9880-3511-11e9-9d50-6ffc9d2ec897.png)
+
+- **Fungsi max() di pemrograman python**
+Fungsi max() adalah fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.
+
+1. **Perulangan while**
+
+Perulangan *while* disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai *TRUE*.
+
+**Pernyataan break dan continue**
+Pernyataan *break* digunakan untuk menghentikan proses perulangan pada kondisi tertentu, sedangkan pernyataan *continue* digunakan untuk melanjutkan pada iterasi selanjutnya pada kondisi tertentu.
+
+**Berikut Adalah Hasil Output**
+
