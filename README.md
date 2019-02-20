@@ -42,3 +42,7 @@ Pernyataan *break* digunakan untuk menghentikan proses perulangan pada kondisi t
 
 **Berikut Adalah Hasil Output**
 
+![screenshot 53](https://user-images.githubusercontent.com/46735563/53070435-c5289c80-3511-11e9-962e-323bcce52bcd.png)
+
+**Program1.py**
+
